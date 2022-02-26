@@ -1,0 +1,6 @@
+area = 1903.230031 um2
+Number of cycles = 49 cycles
+clock period = 5 ns
+performance = area × number of cycles × clock period
+            = 1903.23 x 49 x 5
+            = 466291.35 ns um2
